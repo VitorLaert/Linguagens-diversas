@@ -1,0 +1,43 @@
+software livre: software que possui o código fonte livre para alterações
+software proprietário: software em que não temos acesso ao código fonte
+....................................................................................
+Como você usuário, faz para utilizar os resursos do computador?
+R: Através do sistema operacional.
+
+O que você utiliza?
+R: Monitor, teclado e mouse.
+....................................................................................
+Teclado: Padrâo ABNT, algumas teclas possuem funções especiais e podem assumir 
+funções específicas de acordo com o programa utilizado, e as teclas de atalho, que
+são a combinação de uma ou mais telas para realizar alternativamente uma ação que é 
+executada pelo clique do mouse em um botão ou opção (ex: ctrl+c ou ctrl+v), além  
+das teclas específicas que se comunicam diretamente com o sistema operacional.
+
+Mouse
+Botão direito: clicado sobre um item, é apresentado um menu com as opções de acordo
+com o contexto em questão (menu de atalho) 
+
+Botão esquerdo: acionado para selecionar itens (arquivos, pastas, opções de menu, etc)
+
+Arraste do mouse: quando movimentamos o mouse pressionando o botão esquerdo, utilizado
+para o deslocamento de itens de um local para outro 
+
+Clique: tem a função de selecionar itens
+
+Duplo clique: serve para abrir praticamente tudo no mundo da computação (como abrir um 
+programa, uma pasta ou selecionar a palavra de um texto)
+......................................................................................
+Tela inicial: uma imagem no plano de fundo (área de trabalho) e uma barra localizada 
+na parte inferior da tela (barra de tarefas)
+......................................................................................
+Atividade de casa
+
+Qual a principal finalidade de um sistema operacional?
+
+Cite 4 sistemas operacionais: 
+
+O que é Linux? 
+
+O que é Kernel?
+
+O que é Open Source? 

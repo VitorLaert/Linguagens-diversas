@@ -1,0 +1,4 @@
+printf("\n\nLISTA DOS NUMEROS EM ORDEM INVERSA\n\n");
+for (x=4;x<=0;x--
+	printf("%.1f\n",n[x]);
+}
